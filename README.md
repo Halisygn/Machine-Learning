@@ -1,4 +1,2 @@
 # Machine-Learning
-Regression projects
-Classification projects
-Clustring projects
+Regression projects, classification projects, clustring projects
